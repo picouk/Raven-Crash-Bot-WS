@@ -167,10 +167,10 @@ global.BOT_NAME = "𓆩 𝑹𝒂𝒗𝒆𝒏 𝑪𝒓𝒂𝒔𝒉 𝑩𝒐𝒕 �
 global.DEVELOPER = ["YOUR_TELEGRAM_ID"]
 
 // Social Media Links
-global.GROUP_LINK = "https://t.me/YOUR_GROUP"
-global.CHANNEL_INVITE_LINK = "https://t.me/YOUR_CHANNEL"
-global.WHATSAPP_LINK = "https://whatsapp.com/channel/YOUR_CHANNEL"
-global.YOUTUBE_LINK = "https://www.youtube.com/@YOUR_YOUTUBE"
+global.GROUP_LINK = "https://t.me/Raven_26"
+global.CHANNEL_INVITE_LINK = "https://t.me/Raven_xx24"
+global.WHATSAPP_LINK = "https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c?mode=gi_t"
+global.YOUTUBE_LINK = "https://www.youtube.com/@24xRaven"
 global.TIKTOK_LINK = "https://tiktok.com/@YOUR_TIKTOK"
 ```
 
@@ -304,9 +304,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help? Reach out through:
 
-- 📧 Telegram: [@H4H_M4](https://t.me/H4H_M4)
+- 📧 Telegram: [@H4H_M4](https://t.me/P_X_24)
 - 📢 Channel: [Join Channel](https://t.me/Raven_xx24)
-- 👥 Group: [Join Group](https://t.me/Free_Numberv1)
+- 👥 Group: [Join Group](https://t.me/Raven_26)
 - 📺 YouTube: [Subscribe](https://www.youtube.com/@24xRaven)
 - 🎵 TikTok: [Follow](https://tiktok.com/@24xraven)
 
