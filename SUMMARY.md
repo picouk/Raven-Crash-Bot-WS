@@ -8,7 +8,7 @@
 **Version:** 1.0.0  
 **License:** MIT  
 **Original Author:** Xeon  
-**Modified By:** 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪  
+**Modified By:** ✘ 𝙍𝘼𝙑𝙀𝙉 
 
 ---
 
@@ -16,10 +16,10 @@
 
 **FOR EDUCATIONAL PURPOSES ONLY**
 
-This project is provided for educational purposes. The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) is NOT responsible for any misuse, illegal activities, or damages caused by this software. Use at your own risk and responsibility.
+This project is provided for educational purposes. The developer (✘ 𝙍𝘼𝙑𝙀𝙉) is NOT responsible for any misuse, illegal activities, or damages caused by this software. Use at your own risk and responsibility.
 
 **Original Work:** Based on project by Xeon  
-**Current Work:** Modified and enhanced by 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪
+**Current Work:** Modified and enhanced by ✘ 𝙍𝘼𝙑𝙀𝙉
 
 ---
 
@@ -359,11 +359,13 @@ See [LICENSE](LICENSE) file for full details.
 ## 📞 Contact
 
 ### Developer
-**𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**
+**✘ 𝙍𝘼𝙑𝙀𝙉**
 
-- Telegram: [@H4H_M4](https://t.me/H4H_M4)
+- Telegram: [@P_X_24](https://t.me/P_X_24)
+- Channel: [Raven_xx24](https://t.me/Raven_xx24)
+- Group: [Raven_26](https://t.me/Raven_26)
 - YouTube: [@24xRaven](https://www.youtube.com/@24xRaven)
-- TikTok: [@24xraven](https://tiktok.com/@24xraven)
+- WhatsApp: [Join Group](https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c)
 
 ### Project Links
 - Repository: [GitHub](https://github.com/YOUR_USERNAME/raven-crash-bot)

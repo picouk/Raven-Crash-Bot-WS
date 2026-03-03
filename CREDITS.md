@@ -5,7 +5,7 @@
 **Project Name:** Raven Crash Bot  
 **Version:** 1.0.0  
 **Original Author:** Xeon  
-**Modified & Enhanced By:** 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪  
+**Modified & Enhanced By:** ✘ 𝙍𝘼𝙑𝙀𝙉  
 **License:** MIT  
 
 ---
@@ -33,16 +33,16 @@ This project is provided for educational and learning purposes. The developer (�
 
 ## Current Developer
 
-### 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪
+### ✘ 𝙍𝘼𝙑𝙀𝙉
 
 **Role:** Modifier, Enhancer & Maintainer
 
 **Contact:**
-- Telegram: [@H4H_M4](https://t.me/H4H_M4)
-- Channel: [Raven Channel](https://t.me/Raven_xx24)
-- Group: [Free Number Group](https://t.me/Free_Numberv1)
+- Telegram: [@P_X_24](https://t.me/P_X_24)
+- Channel: [Raven_xx24](https://t.me/Raven_xx24)
+- Group: [Raven_26](https://t.me/Raven_26)
 - YouTube: [@24xRaven](https://www.youtube.com/@24xRaven)
-- TikTok: [@24xraven](https://tiktok.com/@24xraven)
+- WhatsApp: [Join Group](https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c)
 
 **Contributions:**
 - Complete bot architecture and design
@@ -52,6 +52,8 @@ This project is provided for educational and learning purposes. The developer (�
 - Broadcasting features
 - WhatsApp integration
 - Documentation and guides
+- Security enhancements
+- Performance optimizations
 
 ---
 

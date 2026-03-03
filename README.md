@@ -1,11 +1,15 @@
 <div align="center">
 
-# 𓆩 𝑹𝒂𝒗𝒆𝒏 𝑪𝒓𝒂𝒔𝒉 𝑩𝒐𝒕 𓆪
+# RAVEN CRASH BOT
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)](https://nodejs.org/)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://telegram.org/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Integration-25D366?logo=whatsapp)](https://whatsapp.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/P_X_24)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Integration-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@24xRaven)
+
+[![GitHub Stars](https://img.shields.io/github/stars/hsh34811-hash/Raven-Crash-Bot-WS?style=social)](https://github.com/hsh34811-hash/Raven-Crash-Bot-WS/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/hsh34811-hash/Raven-Crash-Bot-WS?style=social)](https://github.com/hsh34811-hash/Raven-Crash-Bot-WS/network/members)
 
 **Advanced Telegram Bot with WhatsApp Integration**
 
@@ -15,6 +19,16 @@
 
 [Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Commands](#-commands) • [Support](#-support)
 
+---
+
+### 📱 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-@P__X__24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/P_X_24)
+[![Channel](https://img.shields.io/badge/Channel-Raven__xx24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Raven_xx24)
+[![Group](https://img.shields.io/badge/Group-Raven__26-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Raven_26)
+[![YouTube](https://img.shields.io/badge/YouTube-24xRaven-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@24xRaven)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c)
+
 </div>
 
 ---
@@ -23,9 +37,9 @@
 
 > **FOR EDUCATIONAL PURPOSES ONLY**
 > 
-> This project is provided for **educational and learning purposes only**. The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) is **NOT responsible** for any misuse, illegal activities, or damages caused by using this software.
+> This project is provided for **educational and learning purposes only**. The developer (@P_X_24) is **NOT responsible** for any misuse, illegal activities, or damages caused by using this software.
 >
-> **Original Project:** This project is based on the original work by **Xeon**. It has been modified, enhanced, and maintained by **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**.
+> **Original Project:** This project is based on the original work by **Xeon**. It has been modified, enhanced, and maintained by **@P_X_24**.
 >
 > **User Responsibility:** By using this software, you agree to:
 > - Use it legally and ethically
@@ -51,7 +65,7 @@ Raven Crash Bot is a powerful and feature-rich Telegram bot with seamless WhatsA
 - 🔗 **WhatsApp Integration** - Full Baileys library support
 - 🎯 **Membership Control** - Automatic group/channel verification
 - 📊 **Resource Monitoring** - Real-time system stats
-- 🌐 **Multi-Platform** - Telegram, WhatsApp, YouTube, TikTok integration
+- 🌐 **Multi-Platform** - Telegram, WhatsApp, YouTube integration
 
 ---
 
@@ -118,8 +132,8 @@ Raven Crash Bot is a powerful and feature-rich Telegram bot with seamless WhatsA
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/raven-crash-bot.git
-cd raven-crash-bot
+git clone https://github.com/hsh34811-hash/Raven-Crash-Bot-WS.git
+cd Raven-Crash-Bot-WS
 ```
 
 ### Step 2: Install Dependencies
@@ -163,23 +177,22 @@ npm run dev
 ```javascript
 // Bot Configuration
 global.BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-global.BOT_NAME = "𓆩 𝑹𝒂𝒗𝒆𝒏 𝑪𝒓𝒂𝒔𝒉 𝑩𝒐𝒕 𓆪"
+global.BOT_NAME = "Raven Crash Bot"
 global.DEVELOPER = ["YOUR_TELEGRAM_ID"]
 
 // Social Media Links
-global.GROUP_LINK = "https://t.me/YOUR_GROUP"
-global.CHANNEL_INVITE_LINK = "https://t.me/YOUR_CHANNEL"
-global.WHATSAPP_LINK = "https://whatsapp.com/channel/YOUR_CHANNEL"
-global.YOUTUBE_LINK = "https://www.youtube.com/@YOUR_YOUTUBE"
-global.TIKTOK_LINK = "https://tiktok.com/@YOUR_TIKTOK"
+global.GROUP_LINK = "https://t.me/Raven_26"
+global.CHANNEL_INVITE_LINK = "https://t.me/Raven_xx24"
+global.WHATSAPP_LINK = "https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c"
+global.YOUTUBE_LINK = "https://www.youtube.com/@24xRaven"
 ```
 
 ### Bot Customization (config.js)
 
 ```javascript
 // Owner Information
-global.ownername = "𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪"
-global.botname = "𓆩 𝑹𝒂𝒗𝒆𝒏 𝑪𝒓𝒂𝒔𝒉 𝑩𝒐𝒕 𓆪"
+global.ownername = "RAVEN"
+global.botname = "Raven Crash Bot"
 
 // Prefix Configuration
 global.prefa = ['', '!', '.', ',']
@@ -242,37 +255,7 @@ raven-crash-bot/
 
 ---
 
-## 🔧 Advanced Configuration
-
-### Premium System
-
-Edit `lib/premium.json` to manually add premium users:
-```json
-[
-  "123456789",
-  "987654321"
-]
-```
-
-### Reseller System
-
-Edit `lib/reseller.json` for reseller access:
-```json
-[
-  "111222333"
-]
-```
-
-### Database Configuration
-
-The bot uses JSON-based storage:
-- `database/database.json` - Main bot data
-- `database/baileysDB.json` - WhatsApp sessions
-- `users.json` - All registered users
-
----
-
-## 🛡️ Security
+## �️ Security
 
 - Never share your `BOT_TOKEN`
 - Keep `settings.js` and `.env` files private
@@ -300,15 +283,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 💬 Support
+## � Support
 
 Need help? Reach out through:
 
-- 📧 Telegram: [@H4H_M4](https://t.me/H4H_M4)
-- 📢 Channel: [Join Channel](https://t.me/Raven_xx24)
-- 👥 Group: [Join Group](https://t.me/Free_Numberv1)
-- 📺 YouTube: [Subscribe](https://www.youtube.com/@24xRaven)
-- 🎵 TikTok: [Follow](https://tiktok.com/@24xraven)
+- 📧 **Telegram:** [@P_X_24](https://t.me/P_X_24)
+- 📢 **Channel:** [Raven_xx24](https://t.me/Raven_xx24)
+- 👥 **Group:** [Raven_26](https://t.me/Raven_26)
+- 📺 **YouTube:** [24xRaven](https://www.youtube.com/@24xRaven)
+- 💬 **WhatsApp:** [Join Group](https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c)
 
 ---
 
@@ -318,7 +301,7 @@ Need help? Reach out through:
 - **Xeon** - Original project creator and developer
 
 ### Current Developer
-- **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪** - Modifications, enhancements, and maintenance
+- **@P_X_24** - Modifications, enhancements, and maintenance
 
 ### Technologies
 - [Telegraf](https://telegraf.js.org/) - Modern Telegram Bot Framework
@@ -332,10 +315,10 @@ Need help? Reach out through:
 
 ### Educational Purpose Only
 This software is provided **strictly for educational purposes** to help developers learn about:
-- Telegram Bot API integration
-- WhatsApp Web API (Baileys)
-- Node.js application development
-- Bot automation concepts
+- Telegram Bot API integration and development
+- WhatsApp Web API (Baileys library) implementation
+- Node.js application architecture
+- Bot automation and management systems
 
 ### No Warranty
 This software is provided "AS IS" without warranty of any kind, express or implied. The developer makes no guarantees about the software's functionality, reliability, or suitability for any purpose.
@@ -356,41 +339,40 @@ This software is provided "AS IS" without warranty of any kind, express or impli
 - Illegal activities
 - Violating platform Terms of Service
 - Any malicious purposes
-- Commercial use without proper authorization
 
 ### Developer Liability
-**The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) is NOT responsible for:**
+**The developer (@P_X_24) is NOT responsible for:**
 - Any misuse of this software
 - Any damages caused by this software
 - Any legal consequences from using this software
 - Any violations of Terms of Service
 - Any data loss or security breaches
-- Any financial losses
 
 ### Original Attribution
-This project is based on the original work by **Xeon**. Significant modifications, enhancements, and maintenance have been performed by **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**.
-
-### Terms Acceptance
-**By downloading, installing, or using this software, you acknowledge that:**
-- You have read and understood this disclaimer
-- You agree to use the software responsibly and legally
-- You accept full responsibility for your actions
-- You will not hold the developer liable for any consequences
-- You understand this is for educational purposes only
-
-### Reporting Misuse
-If you become aware of any misuse of this software, please report it to the developer immediately.
+This project is based on the original work by **Xeon**. Significant modifications, enhancements, and maintenance have been performed by **@P_X_24**.
 
 ---
 
 <div align="center">
 
-**Original by Xeon • Modified & Enhanced by 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**
+---
+
+**Original by Xeon • Modified & Enhanced by @P_X_24**
 
 ⚠️ **FOR EDUCATIONAL PURPOSES ONLY** ⚠️
 
 **USE AT YOUR OWN RISK - DEVELOPER NOT RESPONSIBLE FOR MISUSE**
 
+---
+
+### 🌟 Support The Project
+
+[![GitHub Stars](https://img.shields.io/github/stars/hsh34811-hash/Raven-Crash-Bot-WS?style=for-the-badge&logo=github)](https://github.com/hsh34811-hash/Raven-Crash-Bot-WS/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/hsh34811-hash/Raven-Crash-Bot-WS?style=for-the-badge&logo=github)](https://github.com/hsh34811-hash/Raven-Crash-Bot-WS/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/hsh34811-hash/Raven-Crash-Bot-WS?style=for-the-badge&logo=github)](https://github.com/hsh34811-hash/Raven-Crash-Bot-WS/issues)
+
 ⭐ Star this repo if you find it useful!
+
+**Made with ❤️ by @P_X_24**
 
 </div>

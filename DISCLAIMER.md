@@ -17,7 +17,7 @@ This software project (**Raven Crash Bot**) is provided **STRICTLY FOR EDUCATION
 
 ### NO RESPONSIBILITY FOR MISUSE
 
-**The developer, 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪, explicitly disclaims ALL responsibility and liability for:**
+**The developer, ✘ 𝙍𝘼𝙑𝙀𝙉, explicitly disclaims ALL responsibility and liability for:**
 
 1. **Any misuse** of this software
 2. **Any illegal activities** performed using this software
@@ -38,9 +38,9 @@ This software project (**Raven Crash Bot**) is provided **STRICTLY FOR EDUCATION
 
 This project is **based on the original work created by Xeon**. The original concept, architecture, and initial codebase were developed by Xeon.
 
-### Current Developer: 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪
+### Current Developer: ✘ 𝙍𝘼𝙑𝙀𝙉
 
-**Modifications, enhancements, and maintenance** have been performed by 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪, including:
+**Modifications, enhancements, and maintenance** have been performed by ✘ 𝙍𝘼𝙑𝙀𝙉, including:
 - Code improvements and optimizations
 - Additional features and functionality
 - Documentation and guides
@@ -49,7 +49,7 @@ This project is **based on the original work created by Xeon**. The original con
 
 **Credit must be given to both:**
 - **Xeon** - Original creator
-- **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪** - Modifier and enhancer
+- **✘ 𝙍𝘼𝙑𝙀𝙉** - Modifier and enhancer
 
 ---
 
@@ -213,7 +213,8 @@ This software is intended for use by individuals who are:
 
 If you become aware of any misuse of this software, please report it immediately to:
 
-- **Developer:** [@H4H_M4](https://t.me/H4H_M4) on Telegram
+- **Developer:** [@P_X_24](https://t.me/P_X_24) on Telegram
+- **Channel:** [Raven_xx24](https://t.me/Raven_xx24)
 - **GitHub Issues:** Report via repository issues
 - **Relevant Authorities:** If illegal activity is involved
 
@@ -232,8 +233,9 @@ This disclaimer may be updated at any time without notice. Continued use of the 
 
 **For questions about this disclaimer:**
 
-- Telegram: [@H4H_M4](https://t.me/H4H_M4)
-- GitHub: [Repository Issues](https://github.com/YOUR_USERNAME/raven-crash-bot/issues)
+- Telegram: [@P_X_24](https://t.me/P_X_24)
+- Channel: [Raven_xx24](https://t.me/Raven_xx24)
+- GitHub: [Repository Issues](https://github.com/hsh34811-hash/Raven-Crash-Bot-WS/issues)
 
 **For legal inquiries:**
 
@@ -245,7 +247,7 @@ Please consult with a qualified attorney in your jurisdiction.
 
 **USE THIS SOFTWARE AT YOUR OWN RISK**
 
-The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) provides this software as-is for educational purposes and assumes NO responsibility for how you choose to use it.
+The developer (✘ 𝙍𝘼𝙑𝙀𝙉) provides this software as-is for educational purposes and assumes NO responsibility for how you choose to use it.
 
 **You are solely responsible for your actions and their consequences.**
 
@@ -256,8 +258,16 @@ The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) provides this software as-is for 
 **⚠️ EDUCATIONAL USE ONLY ⚠️**
 
 **Original Work by Xeon**  
-**Modified by 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**
+**Modified by ✘ 𝙍𝘼𝙑𝙀𝙉**
 
 **DEVELOPER NOT RESPONSIBLE FOR MISUSE**
+
+---
+
+### 📱 Contact Developer
+
+[![Telegram](https://img.shields.io/badge/Telegram-@P__X__24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/P_X_24)
+[![Channel](https://img.shields.io/badge/Channel-Raven__xx24-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Raven_xx24)
+[![YouTube](https://img.shields.io/badge/YouTube-24xRaven-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@24xRaven)
 
 </div>

@@ -9,10 +9,10 @@ Get your Raven Crash Bot up and running in 5 minutes!
 > **FOR EDUCATIONAL PURPOSES ONLY**
 >
 > This software is provided for **educational purposes only**. By using this software, you acknowledge that:
-> - The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) is **NOT responsible** for any misuse
+> - The developer (✘ 𝙍𝘼𝙑𝙀𝙉) is **NOT responsible** for any misuse
 > - You will use it **legally and ethically**
 > - You accept **full responsibility** for your actions
-> - This is based on original work by **Xeon**, modified by **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**
+> - This is based on original work by **Xeon**, modified by **✘ 𝙍𝘼𝙑𝙀𝙉**
 >
 > **USE AT YOUR OWN RISK**
 
@@ -328,9 +328,9 @@ cp lib/premium.json lib/premium.json.bak
 ### Quick Support
 
 **Telegram:**
-- Direct: [@H4H_M4](https://t.me/H4H_M4)
-- Group: [Join Group](https://t.me/Free_Numberv1)
-- Channel: [Join Channel](https://t.me/Raven_xx24)
+- Direct: [@P_X_24](https://t.me/P_X_24)
+- Group: [Raven_26](https://t.me/Raven_26)
+- Channel: [Raven_xx24](https://t.me/Raven_xx24)
 
 **Documentation:**
 - [FAQ.md](FAQ.md) - Common questions
