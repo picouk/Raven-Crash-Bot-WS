@@ -183,8 +183,14 @@ global.DEVELOPER = ["YOUR_TELEGRAM_ID"]
 // Social Media Links
 global.GROUP_LINK = "https://t.me/Raven_26"
 global.CHANNEL_INVITE_LINK = "https://t.me/Raven_xx24"
+<<<<<<< HEAD
 global.WHATSAPP_LINK = "https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c"
 global.YOUTUBE_LINK = "https://www.youtube.com/@24xRaven"
+=======
+global.WHATSAPP_LINK = "https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c?mode=gi_t"
+global.YOUTUBE_LINK = "https://www.youtube.com/@24xRaven"
+global.TIKTOK_LINK = "https://tiktok.com/@YOUR_TIKTOK"
+>>>>>>> 7d57baa920d334a4a3fe609296e60a1a557837dc
 ```
 
 ### Bot Customization (config.js)
@@ -287,11 +293,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help? Reach out through:
 
+<<<<<<< HEAD
 - 📧 **Telegram:** [@P_X_24](https://t.me/P_X_24)
 - 📢 **Channel:** [Raven_xx24](https://t.me/Raven_xx24)
 - 👥 **Group:** [Raven_26](https://t.me/Raven_26)
 - 📺 **YouTube:** [24xRaven](https://www.youtube.com/@24xRaven)
 - 💬 **WhatsApp:** [Join Group](https://chat.whatsapp.com/HphHdks1iIzHCZcOuSok3c)
+=======
+- 📧 Telegram: [@H4H_M4](https://t.me/P_X_24)
+- 📢 Channel: [Join Channel](https://t.me/Raven_xx24)
+- 👥 Group: [Join Group](https://t.me/Raven_26)
+- 📺 YouTube: [Subscribe](https://www.youtube.com/@24xRaven)
+- 🎵 TikTok: [Follow](https://tiktok.com/@24xraven)
+>>>>>>> 7d57baa920d334a4a3fe609296e60a1a557837dc
 
 ---
 
