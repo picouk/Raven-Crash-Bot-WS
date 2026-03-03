@@ -1,0 +1,41 @@
+{
+  "name": "24xRaven X",
+  "version": "1.0.0",
+  "author": "24xRaven",
+  "description": "Premium competitive theme - Tournament Edition",
+  "colors": {
+    "primary": "#9D4EDD",
+    "secondary": "#06FFF0",
+    "accent": "#FF6B9D",
+    "background": "#0A0E27",
+    "surface": "#151B3D",
+    "text": "#E8E8F5",
+    "textSecondary": "#9CA3C7",
+    "menuBG": "#0F1433",
+    "menuHighlight": "#1A2147",
+    "border": "#2D3561",
+    "shadow": "#000000",
+    "glow": "#9D4EDD"
+  },
+  "typography": {
+    "display": "ANSI Shadow",
+    "title": "Standard",
+    "body": "Default"
+  },
+  "animations": {
+    "introDuration": 6000,
+    "transitionSpeed": 300,
+    "hoverDelay": 150
+  },
+  "effects": {
+    "glow": true,
+    "particles": true,
+    "shadows": true,
+    "transitions": true
+  },
+  "layout": {
+    "menuAlignment": "center",
+    "spacing": 16,
+    "padding": 32
+  }
+}

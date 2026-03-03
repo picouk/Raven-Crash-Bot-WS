@@ -1,0 +1,36 @@
+{
+  "name": "24xraven-x",
+  "version": "1.0.0",
+  "description": "Premium competitive theme system for Anastasia - Tournament Edition",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "build": "node src/builder.js",
+    "preview": "node src/preview.js"
+  },
+  "keywords": [
+    "anastasia",
+    "theme",
+    "competitive",
+    "24xraven",
+    "ui",
+    "terminal"
+  ],
+  "author": "24xRaven",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.12",
+    "node-wav-player": "^1.0.0",
+    "ora": "^8.0.1",
+    "play-sound": "^1.1.6",
+    "sound-play": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
