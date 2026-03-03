@@ -1,383 +1,396 @@
-# 🎮 24xRaven X - Competitive Theme System
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=600&lines=24xRaven+X;%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89;Anastasia+Theme+System;Competitive+Edition!" alt="Typing SVG" />
+# 𓆩 𝑹𝒂𝒗𝒆𝒏 𝑪𝒓𝒂𝒔𝒉 𝑩𝒐𝒕 𓆪
 
-![Version](https://img.shields.io/badge/version-1.0.0-purple?style=for-the-badge)
-![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)](https://nodejs.org/)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://telegram.org/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Integration-25D366?logo=whatsapp)](https://whatsapp.com/)
 
-**Premium competitive theme system for Anastasia - Tournament Edition**
+**Advanced Telegram Bot with WhatsApp Integration**
 
-[العربية](#arabic) • [English](#english)
+*Professional automation and management system built with Node.js*
+
+**⚠️ [READ DISCLAIMER](DISCLAIMER.md) - Educational Use Only ⚠️**
+
+[Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Commands](#-commands) • [Support](#-support)
 
 </div>
 
 ---
 
-<div id="english">
+## ⚠️ IMPORTANT DISCLAIMER
 
-## 📋 Contents
+> **FOR EDUCATIONAL PURPOSES ONLY**
+> 
+> This project is provided for **educational and learning purposes only**. The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) is **NOT responsible** for any misuse, illegal activities, or damages caused by using this software.
+>
+> **Original Project:** This project is based on the original work by **Xeon**. It has been modified, enhanced, and maintained by **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**.
+>
+> **User Responsibility:** By using this software, you agree to:
+> - Use it legally and ethically
+> - Comply with Telegram's and WhatsApp's Terms of Service
+> - Take full responsibility for your actions
+> - Not use it for spam, harassment, or illegal activities
+>
+> **The developer disclaims all liability for any consequences arising from the use of this software.**
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Color Palette](#color-palette)
-- [Project Structure](#project-structure)
-- [Scripts](#scripts)
-- [License](#license)
-- [Contact](#contact)
+**[📄 Read Full Disclaimer](DISCLAIMER.md)**
 
-## 🎯 Overview
+---
 
-**24xRaven X** is a premium competitive theme system designed for Anastasia platform. Built with modern JavaScript and featuring stunning visual effects, smooth animations, and professional design.
+## 📋 Overview
 
-### Key Highlights
-- ✨ Professional 6-second intro animation
-- 🎨 Premium Purple/Cyan/Red color scheme
-- 🎭 Interactive menu system
-- ⚡ Smooth transitions & effects
-- 🏆 Competition-ready design
+Raven Crash Bot is a powerful and feature-rich Telegram bot with seamless WhatsApp integration. Built with modern technologies and designed for scalability, it offers premium user management, automated broadcasting, membership verification, and much more.
+
+### ✨ Key Highlights
+
+- 🔐 **Advanced Authentication** - Multi-level user verification system
+- 👑 **Premium Management** - Flexible subscription and reseller system
+- 📢 **Broadcasting** - Mass messaging to users and premium members
+- 🔗 **WhatsApp Integration** - Full Baileys library support
+- 🎯 **Membership Control** - Automatic group/channel verification
+- 📊 **Resource Monitoring** - Real-time system stats
+- 🌐 **Multi-Platform** - Telegram, WhatsApp, YouTube, TikTok integration
+
+---
 
 ## 🚀 Features
 
-### Visual Impact
-- Memorable intro animation
-- Clear brand identity with unique X highlight
-- Professional polish and attention to detail
-- Consistent visual language
+### Core Functionality
 
-### User Experience
-- Intuitive navigation
-- Fast response times
-- Smooth transitions
-- Interactive prompts
+- **User Management**
+  - Premium user system with subscription tiers
+  - Reseller management for distribution
+  - Automatic user registration and tracking
+  - Cooldown system to prevent spam
 
-### Technical Excellence
-- Modular architecture
-- Clean code structure
-- Performance optimized
-- Easy to customize
+- **Membership Verification**
+  - Automatic group/channel membership checking
+  - Forced subscription system
+  - Smart caching for performance
+  - Bypass for premium/reseller users
+
+- **Broadcasting System**
+  - Send messages to all users
+  - Target premium users specifically
+  - Success/failure tracking
+  - Markdown support
+
+- **WhatsApp Integration**
+  - Connect multiple WhatsApp accounts
+  - Session management
+  - Pairing code support
+  - Full Baileys library features
+
+### Admin Commands
+
+| Command | Description | Access Level |
+|---------|-------------|--------------|
+| `/addprem <id>` | Add premium user | Owner/Reseller |
+| `/delprem <id>` | Remove premium user | Owner/Reseller |
+| `/listprem` | List all premium users | Owner/Reseller |
+| `/addresell <id>` | Add reseller | Owner Only |
+| `/delresell <id>` | Remove reseller | Owner Only |
+| `/listresell` | List all resellers | Owner Only |
+| `/broadcast <msg>` | Broadcast to all users | Owner Only |
+
+### User Commands
+
+| Command | Description |
+|---------|-------------|
+| `/start` | Start the bot and see welcome message |
+| `/menu` | Display bot menu and system info |
+| `/connect` | Connect WhatsApp account |
+| `/delconnect` | Disconnect WhatsApp account |
+
+---
 
 ## 📦 Installation
 
 ### Prerequisites
-- Node.js >= 18.0.0
-- npm or yarn
 
-### Steps
+- Node.js v16.0.0 or higher
+- npm or yarn package manager
+- Telegram Bot Token (from [@BotFather](https://t.me/BotFather))
+- Basic knowledge of Node.js and Telegram bots
+
+### Step 1: Clone the Repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/hsh34811-hash/24xRaven-X.git
-cd 24xRaven-X
+git clone https://github.com/YOUR_USERNAME/raven-crash-bot.git
+cd raven-crash-bot
+```
 
-# Install dependencies
+### Step 2: Install Dependencies
+
+```bash
 npm install
+```
 
-# Run the theme system
+### Step 3: Configure Environment
+
+1. Copy the example configuration:
+```bash
+cp .env.example .env
+```
+
+2. Edit `settings.js` and configure your bot:
+```javascript
+global.BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+global.DEVELOPER = ["YOUR_TELEGRAM_ID"]
+```
+
+3. Edit `config.js` for additional settings
+
+### Step 4: Run the Bot
+
+```bash
 npm start
 ```
 
-## 🎨 Color Palette
+For development with auto-restart:
+```bash
+npm run dev
+```
 
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Primary Purple | `#9D4EDD` | Main brand color |
-| Cyan Glow | `#06FFF0` | X letter highlight |
-| Soft Red | `#FF6B9D` | Accents & alerts |
-| Deep Dark | `#0A0E27` | Background |
-| Surface | `#151B3D` | UI surfaces |
+---
+
+## ⚙️ Configuration
+
+### Essential Settings (settings.js)
+
+```javascript
+// Bot Configuration
+global.BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+global.BOT_NAME = "𓆩 𝑹𝒂𝒗𝒆𝒏 𝑪𝒓𝒂𝒔𝒉 𝑩𝒐𝒕 𓆪"
+global.DEVELOPER = ["YOUR_TELEGRAM_ID"]
+
+// Social Media Links
+global.GROUP_LINK = "https://t.me/YOUR_GROUP"
+global.CHANNEL_INVITE_LINK = "https://t.me/YOUR_CHANNEL"
+global.WHATSAPP_LINK = "https://whatsapp.com/channel/YOUR_CHANNEL"
+global.YOUTUBE_LINK = "https://www.youtube.com/@YOUR_YOUTUBE"
+global.TIKTOK_LINK = "https://tiktok.com/@YOUR_TIKTOK"
+```
+
+### Bot Customization (config.js)
+
+```javascript
+// Owner Information
+global.ownername = "𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪"
+global.botname = "𓆩 𝑹𝒂𝒗𝒆𝒏 𝑪𝒓𝒂𝒔𝒉 𝑩𝒐𝒕 𓆪"
+
+// Prefix Configuration
+global.prefa = ['', '!', '.', ',']
+
+// Menu Type (v1: image, v2: link+image, v3: video, v4: call end)
+global.typemenu = 'v1'
+```
+
+---
+
+## 📱 Usage
+
+### For Users
+
+1. Start a chat with your bot on Telegram
+2. Send `/start` to begin
+3. Follow the membership verification steps
+4. Use `/menu` to see available commands
+5. Contact owner for premium subscription
+
+### For Admins
+
+1. Configure your Telegram ID in `settings.js`
+2. Use admin commands to manage users
+3. Add premium users or resellers
+4. Broadcast messages to your user base
+5. Monitor system resources via menu
+
+### For Resellers
+
+1. Get reseller access from bot owner
+2. Add/remove premium users
+3. View premium user list
+4. Manage your customer base
+
+---
 
 ## 🏗️ Project Structure
 
 ```
-24xRaven-X/
-├── index.js                 # Main entry point
-├── package.json             # Project configuration
-├── README.md                # Documentation
-├── src/
-│   ├── intro.js            # Intro animation
-│   ├── menu.js             # Main menu system
-│   ├── themes/
-│   │   ├── loader.js       # Theme loader
-│   │   └── 24xraven-x.json # Theme config
-│   ├── screens/
-│   │   ├── gallery.js      # Gallery screen
-│   │   ├── settings.js     # Settings screen
-│   │   ├── credits.js      # Credits screen
-│   │   └── game.js         # Game screen
-│   └── utils/
-│       ├── ui.js           # UI utilities
-│       └── sound.js        # Sound system
-└── assets/                  # Theme assets
+raven-crash-bot/
+├── 69/                    # Media and resource files
+├── database/              # JSON database files
+│   ├── baileysDB.json    # WhatsApp session data
+│   └── database.json     # Bot database
+├── lib/                   # Core library files
+│   ├── english.js        # Language strings
+│   ├── myfunc.js         # Utility functions
+│   ├── premium.json      # Premium users list
+│   └── reseller.json     # Reseller users list
+├── lib2/                  # Additional libraries
+│   ├── lowdb/            # Database adapter
+│   └── pairing/          # WhatsApp pairing data
+├── config.js             # Bot configuration
+├── settings.js           # Environment settings
+├── index.js              # Main bot file
+├── package.json          # Dependencies
+└── README.md             # Documentation
 ```
-
-## 🛠️ Available Scripts
-
-```bash
-# Start the theme system
-npm start
-
-# Development mode with auto-reload
-npm run dev
-
-# Build theme package
-npm run build
-
-# Preview theme
-npm run preview
-```
-
-## 📚 Dependencies
-
-- **chalk** - Terminal styling
-- **figlet** - ASCII art text
-- **ora** - Loading spinners
-- **gradient-string** - Gradient effects
-- **inquirer** - Interactive prompts
-- **sound-play** - Sound effects
-
-## 🎮 Usage
-
-### Running the Theme
-
-```bash
-node index.js
-```
-
-### Menu Options
-
-1. **START GAME** - Launch game mode
-2. **CONTINUE** - Continue saved game
-3. **MULTIPLAYER** - Multiplayer mode
-4. **OPTIONS** - Theme settings
-5. **GALLERY** - View components
-6. **CREDITS** - View credits
-7. **EXIT** - Exit application
-
-## 🎯 Competition Strategy
-
-This theme wins through:
-
-1. **First Impression** - Stunning 6-second intro
-2. **Visual Identity** - Unique cyan X highlight
-3. **Professional Design** - Clean and powerful
-4. **Consistent Branding** - Unified visual language
-5. **Performance** - Smooth and responsive
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-```
-Copyright © 2026 ✘ 𝙍𝘼𝙑𝙀𝙉 - All Rights Reserved
-```
-
-## 👤 Author
-
-**✘ 𝙍𝘼𝙑𝙀𝙉**
-- GitHub: [@hsh34811-hash](https://github.com/hsh34811-hash)
-- Telegram: [@P_X_24](https://t.me/P_X_24)
-- Channel: [t.me/Raven_xx24](https://t.me/Raven_xx24)
 
 ---
 
-**"Competitive. Elegant. Modern."**
+## 🔧 Advanced Configuration
 
-🏆 Good luck in the tournament!
+### Premium System
 
-</div>
+Edit `lib/premium.json` to manually add premium users:
+```json
+[
+  "123456789",
+  "987654321"
+]
+```
+
+### Reseller System
+
+Edit `lib/reseller.json` for reseller access:
+```json
+[
+  "111222333"
+]
+```
+
+### Database Configuration
+
+The bot uses JSON-based storage:
+- `database/database.json` - Main bot data
+- `database/baileysDB.json` - WhatsApp sessions
+- `users.json` - All registered users
 
 ---
 
-<div id="arabic">
+## 🛡️ Security
 
-## 📋 المحتويات
-
-- [نظرة عامة](#نظرة-عامة)
-- [المميزات](#المميزات)
-- [التثبيت](#التثبيت)
-- [الاستخدام](#الاستخدام)
-- [لوحة الألوان](#لوحة-الألوان)
-- [هيكل المشروع](#هيكل-المشروع)
-- [الأوامر](#الأوامر)
-- [الترخيص](#الترخيص)
-- [التواصل](#التواصل)
-
-## 🎯 نظرة عامة
-
-**24xRaven X** هو نظام ثيم احترافي مصمم لمنصة Anastasia. مبني بـ JavaScript الحديث ويتميز بمؤثرات بصرية مذهلة، رسوم متحركة سلسة، وتصميم احترافي.
-
-### النقاط الرئيسية
-- ✨ رسوم متحركة احترافية للمقدمة (6 ثواني)
-- 🎨 نظام ألوان مميز (بنفسجي/سماوي/أحمر)
-- 🎭 نظام قوائم تفاعلي
-- ⚡ انتقالات ومؤثرات سلسة
-- 🏆 تصميم جاهز للمنافسة
-
-## 🚀 المميزات
-
-### التأثير البصري
-- رسوم متحركة لا تُنسى للمقدمة
-- هوية بصرية واضحة مع تمييز فريد لحرف X
-- لمسة احترافية واهتمام بالتفاصيل
-- لغة بصرية متسقة
-
-### تجربة المستخدم
-- تنقل سهل وبديهي
-- أوقات استجابة سريعة
-- انتقالات سلسة
-- مطالبات تفاعلية
-
-### التميز التقني
-- بنية معمارية نموذجية
-- هيكل كود نظيف
-- محسّن للأداء
-- سهل التخصيص
-
-## 📦 التثبيت
-
-### المتطلبات
-- Node.js >= 18.0.0
-- npm أو yarn
-
-### الخطوات
-
-```bash
-# استنساخ المشروع
-git clone https://github.com/hsh34811-hash/24xRaven-X.git
-cd 24xRaven-X
-
-# تثبيت المكتبات
-npm install
-
-# تشغيل النظام
-npm start
-```
-
-## 🎨 لوحة الألوان
-
-| اللون | الكود | الاستخدام |
-|-------|-----|-----------|
-| بنفسجي أساسي | `#9D4EDD` | اللون الرئيسي |
-| توهج سماوي | `#06FFF0` | تمييز حرف X |
-| أحمر ناعم | `#FF6B9D` | التأكيدات والتنبيهات |
-| داكن عميق | `#0A0E27` | الخلفية |
-| سطح | `#151B3D` | أسطح الواجهة |
-
-## 🏗️ هيكل المشروع
-
-```
-24xRaven-X/
-├── index.js                 # نقطة الدخول الرئيسية
-├── package.json             # إعدادات المشروع
-├── README.md                # التوثيق
-├── src/
-│   ├── intro.js            # رسوم المقدمة
-│   ├── menu.js             # نظام القائمة
-│   ├── themes/
-│   │   ├── loader.js       # محمل الثيم
-│   │   └── 24xraven-x.json # إعدادات الثيم
-│   ├── screens/
-│   │   ├── gallery.js      # شاشة المعرض
-│   │   ├── settings.js     # شاشة الإعدادات
-│   │   ├── credits.js      # شاشة الحقوق
-│   │   └── game.js         # شاشة اللعبة
-│   └── utils/
-│       ├── ui.js           # أدوات الواجهة
-│       └── sound.js        # نظام الصوت
-└── assets/                  # ملفات الثيم
-```
-
-## 🛠️ الأوامر المتاحة
-
-```bash
-# تشغيل النظام
-npm start
-
-# وضع التطوير مع إعادة التحميل التلقائي
-npm run dev
-
-# بناء حزمة الثيم
-npm run build
-
-# معاينة الثيم
-npm run preview
-```
-
-## 📚 المكتبات
-
-- **chalk** - تنسيق الطرفية
-- **figlet** - نصوص ASCII فنية
-- **ora** - مؤشرات التحميل
-- **gradient-string** - مؤثرات التدرج
-- **inquirer** - مطالبات تفاعلية
-- **sound-play** - مؤثرات صوتية
-
-## 🎮 الاستخدام
-
-### تشغيل الثيم
-
-```bash
-node index.js
-```
-
-### خيارات القائمة
-
-1. **START GAME** - بدء وضع اللعبة
-2. **CONTINUE** - متابعة اللعبة المحفوظة
-3. **MULTIPLAYER** - وضع اللاعبين المتعددين
-4. **OPTIONS** - إعدادات الثيم
-5. **GALLERY** - عرض المكونات
-6. **CREDITS** - عرض الحقوق
-7. **EXIT** - الخروج
-
-## 🎯 استراتيجية المنافسة
-
-هذا الثيم يفوز من خلال:
-
-1. **الانطباع الأول** - مقدمة مذهلة 6 ثواني
-2. **الهوية البصرية** - تمييز فريد لحرف X بالسماوي
-3. **التصميم الاحترافي** - نظيف وقوي
-4. **العلامة التجارية المتسقة** - لغة بصرية موحدة
-5. **الأداء** - سلس ومستجيب
-
-## 📝 الترخيص
-
-رخصة MIT - انظر ملف [LICENSE](LICENSE) للتفاصيل.
-
-```
-Copyright © 2026 ✘ 𝙍𝘼𝙑𝙀𝙉 - جميع الحقوق محفوظة
-```
-
-## 👤 المطور
-
-**✘ 𝙍𝘼𝙑𝙀𝙉**
-- GitHub: [@hsh34811-hash](https://github.com/hsh34811-hash)
-- Telegram: [@P_X_24](https://t.me/P_X_24)
-- القناة: [t.me/Raven_xx24](https://t.me/Raven_xx24)
+- Never share your `BOT_TOKEN`
+- Keep `settings.js` and `.env` files private
+- Don't commit sensitive data to Git
+- Use `.gitignore` to exclude sensitive files
+- Regularly update dependencies for security patches
 
 ---
 
-**"تنافسي. أنيق. عصري."**
+## 🤝 Contributing
 
-🏆 حظ موفق في البطولة!
+Contributions are welcome! Please follow these steps:
 
-</div>
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 💬 Support
+
+Need help? Reach out through:
+
+- 📧 Telegram: [@H4H_M4](https://t.me/H4H_M4)
+- 📢 Channel: [Join Channel](https://t.me/Raven_xx24)
+- 👥 Group: [Join Group](https://t.me/Free_Numberv1)
+- 📺 YouTube: [Subscribe](https://www.youtube.com/@24xRaven)
+- 🎵 TikTok: [Follow](https://tiktok.com/@24xraven)
+
+---
+
+## 🙏 Acknowledgments
+
+### Original Developer
+- **Xeon** - Original project creator and developer
+
+### Current Developer
+- **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪** - Modifications, enhancements, and maintenance
+
+### Technologies
+- [Telegraf](https://telegraf.js.org/) - Modern Telegram Bot Framework
+- [Baileys](https://github.com/WhiskeySockets/Baileys) - WhatsApp Web API
+- [Node.js](https://nodejs.org/) - JavaScript Runtime
+- All contributors and supporters
+
+---
+
+## ⚠️ Legal Disclaimer & Terms of Use
+
+### Educational Purpose Only
+This software is provided **strictly for educational purposes** to help developers learn about:
+- Telegram Bot API integration
+- WhatsApp Web API (Baileys)
+- Node.js application development
+- Bot automation concepts
+
+### No Warranty
+This software is provided "AS IS" without warranty of any kind, express or implied. The developer makes no guarantees about the software's functionality, reliability, or suitability for any purpose.
+
+### User Responsibility
+**YOU ARE SOLELY RESPONSIBLE FOR:**
+- How you use this software
+- Any consequences of using this software
+- Compliance with all applicable laws and regulations
+- Compliance with Telegram's Terms of Service
+- Compliance with WhatsApp's Terms of Service
+- Any damages or legal issues arising from your use
+
+### Prohibited Uses
+**DO NOT USE THIS SOFTWARE FOR:**
+- Spamming or unsolicited messages
+- Harassment or bullying
+- Illegal activities
+- Violating platform Terms of Service
+- Any malicious purposes
+- Commercial use without proper authorization
+
+### Developer Liability
+**The developer (𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪) is NOT responsible for:**
+- Any misuse of this software
+- Any damages caused by this software
+- Any legal consequences from using this software
+- Any violations of Terms of Service
+- Any data loss or security breaches
+- Any financial losses
+
+### Original Attribution
+This project is based on the original work by **Xeon**. Significant modifications, enhancements, and maintenance have been performed by **𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**.
+
+### Terms Acceptance
+**By downloading, installing, or using this software, you acknowledge that:**
+- You have read and understood this disclaimer
+- You agree to use the software responsibly and legally
+- You accept full responsibility for your actions
+- You will not hold the developer liable for any consequences
+- You understand this is for educational purposes only
+
+### Reporting Misuse
+If you become aware of any misuse of this software, please report it to the developer immediately.
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06FFF0&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting!;Made+with+%E2%9D%A4%EF%B8%8F+by+%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89;Let's+Build+Together!;Happy+Coding!" alt="Typing SVG" />
+**Original by Xeon • Modified & Enhanced by 𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**
 
-### إذا أعجبك المشروع، لا تنسى إضافة نجمة ⭐
+⚠️ **FOR EDUCATIONAL PURPOSES ONLY** ⚠️
 
-**Developed by ✘ 𝙍𝘼𝙑𝙀𝙉**
+**USE AT YOUR OWN RISK - DEVELOPER NOT RESPONSIBLE FOR MISUSE**
 
-**Copyright © 2026 - All Rights Reserved**
+⭐ Star this repo if you find it useful!
 
 </div>

@@ -1,149 +1,105 @@
-# Contributing to 24xRaven X | المساهمة في 24xRaven X
+# Contributing to Raven Crash Bot
 
-<div align="center">
+First off, thank you for considering contributing to Raven Crash Bot! 🎉
 
-**Thank you for your interest in contributing! | شكراً لاهتمامك بالمساهمة!**
+## How Can I Contribute?
 
-</div>
+### Reporting Bugs
 
----
+Before creating bug reports, please check the existing issues to avoid duplicates. When you create a bug report, include as many details as possible:
 
-## English
+- **Use a clear and descriptive title**
+- **Describe the exact steps to reproduce the problem**
+- **Provide specific examples**
+- **Describe the behavior you observed and what you expected**
+- **Include screenshots if possible**
+- **Include your environment details** (Node.js version, OS, etc.)
 
-### How to Contribute
+### Suggesting Enhancements
 
-We welcome contributions from the community! Here's how you can help:
+Enhancement suggestions are tracked as GitHub issues. When creating an enhancement suggestion, include:
 
-#### 🐛 Reporting Bugs
+- **Use a clear and descriptive title**
+- **Provide a detailed description of the suggested enhancement**
+- **Explain why this enhancement would be useful**
+- **List some examples of how it would be used**
 
-1. Check if the bug has already been reported
-2. Use the issue tracker to report bugs
-3. Include detailed information:
-   - Steps to reproduce
-   - Expected behavior
-   - Actual behavior
-   - Screenshots (if applicable)
-   - System information
+### Pull Requests
 
-#### ✨ Suggesting Features
+1. Fork the repo and create your branch from `main`
+2. If you've added code, ensure it follows the existing code style
+3. Make sure your code lints and passes all tests
+4. Update the documentation if needed
+5. Write a clear commit message describing your changes
 
-1. Check if the feature has already been suggested
-2. Open a new issue with the "feature request" label
-3. Describe the feature in detail
-4. Explain why it would be useful
+## Code Style Guidelines
 
-#### 🔧 Pull Requests
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Test your changes thoroughly
-5. Commit your changes (`git commit -m 'Add amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
-
-#### 📝 Code Style
-
-- Follow the existing code style
 - Use meaningful variable and function names
 - Add comments for complex logic
+- Follow the existing code structure
 - Keep functions small and focused
+- Use async/await for asynchronous operations
 
-#### ✅ Testing
+## Development Setup
 
-- Test your changes before submitting
-- Ensure all existing tests pass
-- Add new tests for new features
+1. Clone your fork of the repo
+```bash
+git clone https://github.com/YOUR_USERNAME/raven-crash-bot.git
+```
 
----
+2. Install dependencies
+```bash
+npm install
+```
 
-## العربية
+3. Create a branch for your changes
+```bash
+git checkout -b feature/your-feature-name
+```
 
-### كيفية المساهمة
+4. Make your changes and test thoroughly
 
-نرحب بالمساهمات من المجتمع! إليك كيف يمكنك المساعدة:
+5. Commit your changes
+```bash
+git commit -m "Add: your feature description"
+```
 
-#### 🐛 الإبلاغ عن الأخطاء
+6. Push to your fork
+```bash
+git push origin feature/your-feature-name
+```
 
-1. تحقق مما إذا كان الخطأ قد تم الإبلاغ عنه بالفعل
-2. استخدم متتبع المشكلات للإبلاغ عن الأخطاء
-3. قم بتضمين معلومات مفصلة:
-   - خطوات إعادة الإنتاج
-   - السلوك المتوقع
-   - السلوك الفعلي
-   - لقطات الشاشة (إن وجدت)
-   - معلومات النظام
+7. Open a Pull Request
 
-#### ✨ اقتراح الميزات
+## Commit Message Guidelines
 
-1. تحقق مما إذا كانت الميزة قد تم اقتراحها بالفعل
-2. افتح مشكلة جديدة مع تسمية "طلب ميزة"
-3. صف الميزة بالتفصيل
-4. اشرح لماذا ستكون مفيدة
+- Use present tense ("Add feature" not "Added feature")
+- Use imperative mood ("Move cursor to..." not "Moves cursor to...")
+- Start with a capital letter
+- Keep the first line under 50 characters
+- Reference issues and pull requests when relevant
 
-#### 🔧 طلبات السحب
+Examples:
+- `Add: Premium user management system`
+- `Fix: Membership verification bug`
+- `Update: README documentation`
+- `Refactor: Database connection logic`
 
-1. قم بعمل Fork للمستودع
-2. أنشئ فرعًا جديدًا (`git checkout -b feature/amazing-feature`)
-3. قم بإجراء التغييرات
-4. اختبر تغييراتك بدقة
-5. قم بعمل Commit للتغييرات (`git commit -m 'Add amazing feature'`)
-6. ادفع إلى الفرع (`git push origin feature/amazing-feature`)
-7. افتح طلب سحب
-
-#### 📝 أسلوب الكود
-
-- اتبع أسلوب الكود الموجود
-- استخدم أسماء متغيرات ودوال ذات معنى
-- أضف تعليقات للمنطق المعقد
-- حافظ على الدوال صغيرة ومركزة
-
-#### ✅ الاختبار
-
-- اختبر تغييراتك قبل الإرسال
-- تأكد من نجاح جميع الاختبارات الموجودة
-- أضف اختبارات جديدة للميزات الجديدة
-
----
-
-## Code of Conduct | قواعد السلوك
-
-### English
+## Code of Conduct
 
 - Be respectful and inclusive
-- Welcome newcomers
-- Accept constructive criticism
-- Focus on what's best for the community
-- Show empathy towards others
+- Accept constructive criticism gracefully
+- Focus on what is best for the community
+- Show empathy towards other community members
 
-### العربية
+## Questions?
 
-- كن محترمًا وشاملاً
-- رحب بالقادمين الجدد
-- اقبل النقد البناء
-- ركز على ما هو أفضل للمجتمع
-- أظهر التعاطف تجاه الآخرين
+Feel free to reach out:
+- Telegram: [@H4H_M4](https://t.me/H4H_M4)
+- Open an issue for discussion
 
----
-
-## Questions? | أسئلة؟
-
-If you have any questions, feel free to:
-- Open an issue
-- Contact us on Telegram: [@P_X_24](https://t.me/P_X_24)
-- Join our channel: [t.me/Raven_xx24](https://t.me/Raven_xx24)
-
-إذا كان لديك أي أسئلة، لا تتردد في:
-- فتح مشكلة
-- التواصل معنا على تليجرام: [@P_X_24](https://t.me/P_X_24)
-- الانضمام إلى قناتنا: [t.me/Raven_xx24](https://t.me/Raven_xx24)
+Thank you for contributing! 🚀
 
 ---
 
-<div align="center">
-
-**Thank you for contributing! | شكراً للمساهمة!**
-
-**Made with ❤️ by ✘ 𝙍𝘼𝙑𝙀𝙉**
-
-</div>
+**𓆩 𝑹𝒂𝒗𝒆𝒏 𓆪**
