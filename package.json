@@ -1,4 +1,4 @@
-  {
+{
 "name": "raven-crash-bot",
 "version": "1.0.0",
 "description": "Advanced Telegram Bot with WhatsApp Integration - Professional automation and management system",
@@ -27,11 +27,11 @@
 },
 "homepage": "https://github.com/YOUR_USERNAME/raven-crash-bot#readme",
 "engines": {
-"node": ">=16.0.0",
+"node": "22.x",
 "npm": ">=7.0.0"
 },
 "dependencies": {
-"@adiwajshing/baileys":"github:fthym7261-sys/WaBails", 
+"@adiwajshing/baileys": "github:fthym7261-sys/WaBails",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@hapi/boom": "^10.0.1",
 "awesome-phonenumber": "^2.64.0",
@@ -82,7 +82,7 @@
 "socks-proxy-agent": "^8.0.3",
 "ssh2": "^1.15.0",
 "stream": "^0.0.2",
-"string-similarity": "^4.0.4",
+"string-similarity": "^4.0.0",
 "telegraf": "^4.3.0",
 "util": "^0.12.5",
 "webcrack": "latest",
