@@ -27,8 +27,8 @@
 },
 "homepage": "https://github.com/YOUR_USERNAME/raven-crash-bot#readme",
 "engines": {
-"node": ">=16.0.0",
-"npm": ">=7.0.0"
+  "node": "22.x",
+  "npm": ">=7.0.0"
 },
 "dependencies": {
 "@adiwajshing/baileys":"github:fthym7261-sys/WaBails", 
